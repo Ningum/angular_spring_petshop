@@ -1,0 +1,38 @@
+# Arquivos do sistema operacional
+.DS_Store
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos gerados pelo Maven
+target/
+mvnw
+mvnw.cmd
+.mvn/
+ 
+# Logs
+log/
+
+# Arquivos de propriedades
+application*.properties
+
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de dependências do Maven
+lib/
+
+# Diretório de compilação do Maven
+bin/
+
+# Arquivos temporários
+.tmp/
+
+# Diretório de configuração local do Spring Boot
+.spring-boot/
+
+# Logs do Spring Boot
+spring.log
+
