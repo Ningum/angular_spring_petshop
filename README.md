@@ -1,0 +1,2 @@
+Projeto realizado seguindo as aulas do Ralf Lima (https://www.youtube.com/@RalfLima), o projeto teve como objetivo a criação de uma página onde fosse possível realizar um "CRUD" de uma pessoa. Com base neste projeto realizarei modificações de modo que fique de acordo com um sistema para Petshop. 
+Este projeto não tem nenhum pretenção de ser algo comercial, trata-se apenas de uma demonstração das habilidades aprendidas. 
